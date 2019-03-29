@@ -34,4 +34,4 @@ How to reproduce the experiments of the paper ?
 Wha is the licence of this source code ?
 ----------------------------------------
 
-- See the file LICENCE
+- See the file LICENSE
