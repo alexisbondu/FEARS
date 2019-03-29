@@ -19,7 +19,7 @@ Who are the authors of this source code ?
 - D. Gay(2).
 
 
-How reproduce the experiments of the paper ?
+How to reproduce the experiments of the paper ?
 --------------------------------------------
 
 - Install the Khiops software (www.khiops.com)
