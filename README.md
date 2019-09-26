@@ -3,7 +3,7 @@
 What is it ?
 ------------
 
-This source code the submitted paper at ECML 2019 Track:
+This source code the submitted paper at ACML 2019 Track:
 
 "FEARS: a Feature And Representation Selection approach for time series classification"
 A. Bondu(1), D. Gay(2), V. Lemaire(1), M. Boullé(1), E. Cervenka(1)
